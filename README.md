@@ -29,4 +29,4 @@ This tool helps you create strong, random passwords based on your selected crite
 This project was created as part of my learning journey to practice:
 - DOM manipulation
 - Handling forms and inputs
-- Clipboard API
+- API
